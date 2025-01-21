@@ -1,8 +1,9 @@
 ### CONTRIBUTING.md
 
-# Contributing to Everything_but_Assembly
+# Contributing to Everything in x8086
 
-Thank you for considering contributing to Everything_but_Assembly! We welcome your contributions to make this project better.
+Thank you for considering contributing to Everything in x8086! We welcome your contributions to make this project better.
+
 ## How to Contribute
 
 1. Fork the repository and clone it to your local machine.
@@ -38,4 +39,4 @@ We encourage contributions from the community. If you have a new feature or bug 
 
 ## Thank you for contributing!
 
-Your contributions make Everything_but_Assembly better for everyone.
+Your contributions make Everything in x8086 better for everyone.
