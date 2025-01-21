@@ -1,7 +1,3 @@
-Here's the updated README with the new name and the requested additions:
-
----
-
 # Code of Steel (x86)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ahmedembeddedxx/codes-of-steel-x86/blob/main/LICENSE)  
